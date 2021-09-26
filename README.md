@@ -1,4 +1,8 @@
 # fun-wth-triangles
 Lets do some calculations with the help of this app.
-Made a web application to handle day to day cash transactions with the help of HTML, CSS, and Vanilla JavaScript. 
-It generates a combination of different notes and coins to adjust the change amount that is to be returned to the customer.
+Lets do some calculations with the help of this app.
+Made a web application to do different types of calculations.
+* Area of Triangle
+* Hypotenuse of a triangle
+* Quiz
+* Check whether the given angles makes a triangle or not
